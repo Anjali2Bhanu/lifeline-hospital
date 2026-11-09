@@ -5,7 +5,7 @@ A modern, responsive, multi-speciality hospital website built with HTML5, Tailwi
 ## Hospital Contact Details Configured
 - **Domain:** [lifelinehospital.net.in](http://lifelinehospital.net.in)
 - **Official Admin Email:** `admin@lifelinehospital.net.in`
-- **Emergency & Reception Hotline:** `+91 7728442342` / `7728442342`
+- **Emergency & Reception Hotline:** `+91 7738442343` / `7738442343`
 
 ---
 
